@@ -20,4 +20,4 @@
 #### References
 
 - **Refresh Token Rotation**: https://auth0.com/docs/secure/tokens/refresh-tokens/refresh-token-rotation
-- Refresh Token 을 DB에 저장해야 하는 이유: https://betterprogramming.pub/should-we-store-tokens-in-db-af30212b7f22
+- **Refresh Token 을 DB에 저장해야 하는 이유**: https://betterprogramming.pub/should-we-store-tokens-in-db-af30212b7f22
